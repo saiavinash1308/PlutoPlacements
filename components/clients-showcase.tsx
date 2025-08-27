@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge"
 const clients = [
   {
     name: "Infosis BPM",
-    logo: "/infosis.png",
+    logo: "/Infosis.png",
     industry: "IT Services",
     hires: "50+ Hires",
     testimonial: "PlutoPlacements delivered exceptional talent for our expansion.",
