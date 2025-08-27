@@ -35,7 +35,7 @@ const clients = [
   },
   {
     name: "Tech M",
-    logo: "/TECH-M.png",
+    logo: "/Tech-M.png",
     industry: "Finance",
     hires: "400+ Hires",
     testimonial: "Excellent service in providing qualified finance professionals.",
