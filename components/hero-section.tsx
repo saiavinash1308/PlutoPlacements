@@ -10,7 +10,7 @@ export default function HeroSection() {
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl font-serif font-bold text-foreground leading-tight">
                 Connecting Corporates with the
-                <span className="text-primary"> Right Talent</span>, Fast
+                <span className="text-primary"> Right Talent</span>
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed">
                 PlutoPlacements specializes in bulk hiring and workforce management across BPO, KPO, IT, and Non-IT
